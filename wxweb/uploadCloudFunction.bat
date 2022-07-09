@@ -1,0 +1,1 @@
+"E:\wxweb\cli.bat" cloud functions deploy --e cloud1-9g1b173d00268a1c --n quickstartFunctions --r --project "F:\wxweb" --report_first --report
